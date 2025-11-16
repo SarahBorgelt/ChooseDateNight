@@ -35,7 +35,7 @@ Maintaining meaningful connections often requires creativity and planning. This 
 
 - **Encourage quality time:** Inspires unique, budget-conscious date ideas to help you create memorable experiences.
 
-- **implify planning:** Eliminates the stress of deciding what to do, making it easy to pick something fun and suitable for your budget.
+- **Simplify planning:** Eliminates the stress of deciding what to do, making it easy to pick something fun and suitable for your budget.
 
 - **Bring variety to your routine:** Offers new and unexpected ideas to keep outings exciting and engaging.
 
