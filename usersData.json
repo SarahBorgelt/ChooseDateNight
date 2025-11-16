@@ -1,14 +1,17 @@
 {
   "Alice" : {
-    "Free" : [ "Bike Riding" ]
+    "Free" : [ "Stargazing" ]
   },
   "Johnny" : {
-    "Expensive" : [ "Helicopter Ride", "Indoor Rock Climbing", "Take a Ballroom Dancing Lesson", "Take a Skiing Lesson", "Go Bungee Jumping", "Boat Ride" ]
+    "Expensive" : [ "Helicopter Ride", "Indoor Rock Climbing", "Take a Ballroom Dancing Lesson", "Take a Skiing Lesson", "Go Bungee Jumping", "Boat Ride", "See a Show at Ohio Theater" ]
   },
   "Sally" : {
-    "Moderate" : [ "Visit Otherworld", "Go Paddleboarding at Alum Creek", "Old North Arcade Bar", "Go to a Columbus Clippers Game", "Kayaking", "Go to a Concert at Ace of Cups or Skully's" ]
+    "Moderate" : [ "Visit Otherworld", "Go Paddleboarding at Alum Creek", "Old North Arcade Bar", "Go to a Columbus Clippers Game", "Kayaking", "Go to a Concert at Ace of Cups or Skully's", "Go to BalletMet Columbus" ]
   },
   "BLAKE" : {
-    "Cheap" : [ "Visit a Corn Maze", "Factory Tour at Anthony Thomas Chocolates", "IKEA Cafe", "Visit a Coffee Shop", "Sam's Club Cafe", "Camping" ]
+    "Cheap" : [ "Visit a Corn Maze", "Factory Tour at Anthony Thomas Chocolates", "IKEA Cafe", "Visit a Coffee Shop", "Sam's Club Cafe", "Camping", "Go to a High School Football Game" ]
+  },
+  "Sarah" : {
+    "Free" : [ "Franklin Park Conservatory First Sunday of the Month (Free Admission)" ]
   }
 }
