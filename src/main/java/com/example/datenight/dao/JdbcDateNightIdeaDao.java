@@ -126,4 +126,11 @@ public class JdbcDateNightIdeaDao implements DateNightIdeaDaoInterface{
         return dateNightIdea;
     }
 
+    public JdbcTemplate getJdbcTemplate() {
+        return jdbcTemplate;
+    }
+
+    public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
+        this.jdbcTemplate = jdbcTemplate;
+    }
 }
